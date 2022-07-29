@@ -1,0 +1,6 @@
+numpy>0
+pandas>0
+git+ssh://git@github.com/SciTools/iris.git
+git+ssh://git@github.com/SciTools/cartopy.git
+fiona>0
+pyproj>0
